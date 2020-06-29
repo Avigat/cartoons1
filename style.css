@@ -1,0 +1,43 @@
+header{
+    background: black;
+    color: lavenderblush;
+    text-align: center;
+    padding: 20px;
+}
+#tomjerry{
+    background: goldenrod;
+    color: lavenderblush;
+    text-align: center;
+    padding: 20px;
+}
+#doraemon{
+    background: cadetblue;
+    color: lavenderblush;
+    text-align: center;
+    padding: 20px;
+}
+#shinchan{
+    background: darkorange;
+    color: lavenderblush;
+    text-align: center;
+    padding: 20px;
+}
+nav ul{
+    margin: 20px;
+    padding: 10px;
+    list-style: none;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.nav-link{
+    text-decoration: none;
+    cursor: pointer;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+nav ul li{
+    margin: 0 20px;
+}
